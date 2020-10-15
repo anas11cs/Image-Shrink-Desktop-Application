@@ -1,0 +1,22 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "App To Optimize Images",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anas11cs/IMAGE-SHRINK.git"
+  },
+  "author": "Muhammad Anas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anas11cs/IMAGE-SHRINK/issues"
+  },
+  "homepage": "https://github.com/anas11cs/IMAGE-SHRINK#readme",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}

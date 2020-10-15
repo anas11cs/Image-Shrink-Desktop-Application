@@ -1,0 +1,5 @@
+npm init
+Entry Point = main.js
+license = MIT
+== Installing dependencies ==
+npm i -D electron
