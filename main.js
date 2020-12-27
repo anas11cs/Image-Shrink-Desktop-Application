@@ -1,4 +1,6 @@
 // console.log('Hello World');
+// Packaging Electron.js = > https://www.christianengvall.se/electron-packager-tutorial/
+// npm run package-(mac/win/linux) => See package.json, it depends on OS
 const path = require('path')
 const os = require('os')
 const {app, BrowserWindow, Menu, ipcMain, shell/*, globalShortcut*/} = require('electron'); // Node Js module syntax
